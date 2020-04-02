@@ -11,6 +11,7 @@
 本系列预估一共有40多篇：
 
 - [前端进阶算法1：如何分析、统计算法的执行效率和资源消耗？](https://github.com/sisterAn/JavaScript-Algorithms/issues/1)
+- [前端进阶算法2：从Chrome V8源码看JavaScript数组（附赠腾讯面试题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/2)
 
 
 ## 认识更多的前端道友，一起进阶前端开发
