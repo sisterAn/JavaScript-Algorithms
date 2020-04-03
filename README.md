@@ -20,7 +20,7 @@
 #### 数组篇
 
 - [图解leetcode：合并两个有序数组](https://github.com/sisterAn/JavaScript-Algorithms/issues/3)
-- [leetcode：两数之和](https://github.com/sisterAn/JavaScript-Algorithms/issues/4)
+- [字节&leetcode：两数之和](https://github.com/sisterAn/JavaScript-Algorithms/issues/4)
 - [腾讯：数组扁平化、去重、排序 ](https://github.com/sisterAn/JavaScript-Algorithms/issues/6)
 - 阿里算法题：求多个数组之间的交集
 - 携程算法题：手写数组去重、扁平化函数
