@@ -34,7 +34,7 @@
 - [字节&leetcode：两数之和](https://github.com/sisterAn/JavaScript-Algorithms/issues/4)
 - [腾讯：数组扁平化、去重、排序 ](https://github.com/sisterAn/JavaScript-Algorithms/issues/5)
 - [leetcode：给定两个数组，编写一个函数来计算它们的交集](https://github.com/sisterAn/JavaScript-Algorithms/issues/6)
-- [设计和实现一个LRU（最近最少使用）缓存机制](https://github.com/sisterAn/JavaScript-Algorithms/issues/7)
+- [leetcode：设计和实现一个LRU（最近最少使用）缓存机制](https://github.com/sisterAn/JavaScript-Algorithms/issues/7)
 
 
 
