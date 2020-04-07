@@ -22,7 +22,7 @@
 
 - [前端进阶算法1：如何分析、统计算法的执行效率和资源消耗？](https://github.com/sisterAn/JavaScript-Algorithms/issues/1)
 - [前端进阶算法2：从Chrome V8源码看JavaScript数组（附赠腾讯面试题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/2)
-- 前端进阶算法3：从浏览器缓存淘汰策略和Vue的keep-alive学习LRU算法
+- [前端进阶算法3：从浏览器缓存淘汰策略和Vue的keep-alive学习LRU算法](https://github.com/sisterAn/JavaScript-Algorithms/issues/9)
 
 想要更多更快的学习本系列，可以关注公众号「前端瓶子君」😊😊😊
 
