@@ -23,7 +23,7 @@
 - [前端进阶算法1：如何分析、统计算法的执行效率和资源消耗？](https://github.com/sisterAn/JavaScript-Algorithms/issues/1)
 - [前端进阶算法2：从Chrome V8源码看JavaScript数组（附赠腾讯面试题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/2)
 - [前端进阶算法3：从浏览器缓存淘汰策略和Vue的keep-alive学习LRU算法](https://github.com/sisterAn/JavaScript-Algorithms/issues/9)
-- [前端进阶算法3：链表原来如此简单（+leetcode刷题）]()
+- [前端进阶算法3：链表原来如此简单（+leetcode刷题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/12)
 
 想要更多更快的学习本系列，可以关注公众号「前端瓶子君」😊😊😊
 
@@ -37,7 +37,7 @@
 - [leetcode349：给定两个数组，编写一个函数来计算它们的交集](https://github.com/sisterAn/JavaScript-Algorithms/issues/6)
 - [leetcode146：设计和实现一个LRU（最近最少使用）缓存机制](https://github.com/sisterAn/JavaScript-Algorithms/issues/7)
 - [阿里算法题：编写一个函数计算多个数组的交集](https://github.com/sisterAn/JavaScript-Algorithms/issues/10)
-- [leetcode21：合并两个有序链表]()
+- [leetcode21：合并两个有序链表](https://github.com/sisterAn/JavaScript-Algorithms/issues/11)
 
 
 
