@@ -40,7 +40,7 @@
 
 #### 链表
 - [leetcode21：合并两个有序链表](https://github.com/sisterAn/JavaScript-Algorithms/issues/11)
-
+- [有赞&leetcode141：判断一个单链表是否有环](https://github.com/sisterAn/JavaScript-Algorithms/issues/13)
 
 
 ## 认识更多的前端道友，一起进阶前端开发
