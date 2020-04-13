@@ -43,6 +43,7 @@
 - [有赞&leetcode141：判断一个单链表是否有环](https://github.com/sisterAn/JavaScript-Algorithms/issues/13)
 - [图解leetcode206：反转链表](https://github.com/sisterAn/JavaScript-Algorithms/issues/14)
 - [leetcode876：求链表的中间结点](https://github.com/sisterAn/JavaScript-Algorithms/issues/15)
+- [leetcode19：删除链表倒数第 n 个结点](https://github.com/sisterAn/JavaScript-Algorithms/issues/16)
 
 
 ## 认识更多的前端道友，一起进阶前端开发
