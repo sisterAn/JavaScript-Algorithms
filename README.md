@@ -44,7 +44,7 @@
 - [图解leetcode206：反转链表](https://github.com/sisterAn/JavaScript-Algorithms/issues/14)
 - [leetcode876：求链表的中间结点](https://github.com/sisterAn/JavaScript-Algorithms/issues/15)
 - [leetcode19：删除链表倒数第 n 个结点](https://github.com/sisterAn/JavaScript-Algorithms/issues/16)
-- [字节&leetcode160：编写一个程序，找到两个单链表相交的起始节点](https://github.com/sisterAn/JavaScript-Algorithms/issues/17)
+- [图解字节&leetcode160：编写一个程序，找到两个单链表相交的起始节点](https://github.com/sisterAn/JavaScript-Algorithms/issues/17)
 
 #### 字符串
 - [字节&leetcode151：翻转字符串里的单词](https://github.com/sisterAn/JavaScript-Algorithms/issues/18)
