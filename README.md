@@ -48,6 +48,7 @@
 
 #### 字符串
 - [字节&leetcode151：翻转字符串里的单词](https://github.com/sisterAn/JavaScript-Algorithms/issues/18)
+- [leetcode14：最长公共前缀](https://github.com/sisterAn/JavaScript-Algorithms/issues/19)
 
 
 ## 认识更多的前端道友，一起进阶前端开发
