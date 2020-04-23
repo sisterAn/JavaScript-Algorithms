@@ -55,6 +55,7 @@
 
 #### 栈
 - [字节&leetcode155：最小栈（包含getMin函数的栈）](https://github.com/sisterAn/JavaScript-Algorithms/issues/23)
+- [腾讯&leetcode20：有效的括号](https://github.com/sisterAn/JavaScript-Algorithms/issues/25)
 
 
 ## 认识更多的前端道友，一起进阶前端开发
