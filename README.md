@@ -57,6 +57,7 @@
 - [字节&leetcode155：最小栈（包含getMin函数的栈）](https://github.com/sisterAn/JavaScript-Algorithms/issues/23)
 - [图解腾讯&哔哩哔哩&leetcode20：有效的括号](https://github.com/sisterAn/JavaScript-Algorithms/issues/25)
 - [leetcode1047：删除字符串中的所有相邻重复项](https://github.com/sisterAn/JavaScript-Algorithms/issues/26)
+- [leetcode1209：删除字符串中的所有相邻重复项 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/27)
 
 
 ## 从0到1构建完整的数据结构与算法体系
