@@ -58,6 +58,7 @@
 - [图解腾讯&哔哩哔哩&leetcode20：有效的括号](https://github.com/sisterAn/JavaScript-Algorithms/issues/25)
 - [leetcode1047：删除字符串中的所有相邻重复项](https://github.com/sisterAn/JavaScript-Algorithms/issues/26)
 - [leetcode1209：删除字符串中的所有相邻重复项 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/27)
+- [面试真题：删除字符串中出现次数 >= 2 次的相邻字符](https://github.com/sisterAn/JavaScript-Algorithms/issues/28)
 
 
 ## 从0到1构建完整的数据结构与算法体系
