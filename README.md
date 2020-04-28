@@ -60,6 +60,9 @@
 - [leetcode1209：删除字符串中的所有相邻重复项 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/27)
 - [面试真题：删除字符串中出现次数 >= 2 次的相邻字符](https://github.com/sisterAn/JavaScript-Algorithms/issues/28)
 
+#### 编程题
+- [携程&蘑菇街：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
+
 
 ## 从0到1构建完整的数据结构与算法体系
 
