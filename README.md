@@ -24,7 +24,8 @@
 - [前端进阶算法2：从Chrome V8源码看JavaScript数组（附赠腾讯面试题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/2)
 - [前端进阶算法3：从浏览器缓存淘汰策略和Vue的keep-alive学习LRU算法](https://github.com/sisterAn/JavaScript-Algorithms/issues/9)
 - [前端进阶算法4：链表原来如此简单（+leetcode刷题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/12)
-- [前端进阶算法5：全方位解读前端用到的栈结构（+leetcode刷题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/24)
+- [前端进阶算法5：全方位解读前端用到的栈结构（调用栈、堆、垃圾回收等）](https://github.com/sisterAn/JavaScript-Algorithms/issues/24)
+- [前端进阶算法6：一看就懂的队列及配套算法题](https://github.com/sisterAn/JavaScript-Algorithms)
 
 想要更多更快的学习本系列，可以关注公众号「前端瓶子君」😊😊😊
 
@@ -63,6 +64,7 @@
 - [面试真题：删除字符串中出现次数 >= 2 次的相邻字符](https://github.com/sisterAn/JavaScript-Algorithms/issues/28)
 
 #### 队列
+- [leetcode239：滑动窗口最大值问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/33)
 - [字节&leetcode151：翻转字符串里的单词](https://github.com/sisterAn/JavaScript-Algorithms/issues/18)
 - [字节&Leetcode3：无重复字符的最长子串](https://github.com/sisterAn/JavaScript-Algorithms/issues/21)
 
