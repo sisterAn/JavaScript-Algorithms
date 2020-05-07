@@ -25,7 +25,7 @@
 - [前端进阶算法3：从浏览器缓存淘汰策略和Vue的keep-alive学习LRU算法](https://github.com/sisterAn/JavaScript-Algorithms/issues/9)
 - [前端进阶算法4：链表原来如此简单（+leetcode刷题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/12)
 - [前端进阶算法5：全方位解读前端用到的栈结构（调用栈、堆、垃圾回收等）](https://github.com/sisterAn/JavaScript-Algorithms/issues/24)
-- [前端进阶算法6：一看就懂的队列及配套算法题](https://github.com/sisterAn/JavaScript-Algorithms)
+- [前端进阶算法6：一看就懂的队列及配套算法题](https://github.com/sisterAn/JavaScript-Algorithms/issues/35)
 
 想要更多更快的学习本系列，可以关注公众号「前端瓶子君」😊😊😊
 
