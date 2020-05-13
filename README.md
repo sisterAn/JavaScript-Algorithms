@@ -75,6 +75,7 @@
 - [leetcode144：二叉树的前序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/37)
 - [leetcode94：二叉树的中序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/38)
 - [leetcode145：二叉树的后序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/40)
+- [leetcode105：从前序与中序遍历序列构造二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/41)
 
 #### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
