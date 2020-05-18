@@ -78,6 +78,7 @@
 - [leetcode105：从前序与中序遍历序列构造二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/41)
 - [leetcode104：二叉树的最大深度](https://github.com/sisterAn/JavaScript-Algorithms/issues/42)
 - [leetcode236：二叉树的最近公共祖先](https://github.com/sisterAn/JavaScript-Algorithms/issues/43)
+- [leetcode110：平衡二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/44)
 
 #### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
