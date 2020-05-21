@@ -75,6 +75,7 @@
 - [字节&leetcode144：二叉树的前序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/37)
 - [字节&leetcode94：二叉树的中序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/38)
 - [字节&leetcode145：二叉树的后序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/40)
+- [leetcode102：二叉树的层序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/47)
 - [字节&leetcode107：二叉树的层次遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/46)
 - [leetcode105：从前序与中序遍历序列构造二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/41)
 - [腾讯&leetcode104：二叉树的最大深度](https://github.com/sisterAn/JavaScript-Algorithms/issues/42)
