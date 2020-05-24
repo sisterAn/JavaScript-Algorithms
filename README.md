@@ -75,7 +75,7 @@
 - [腾讯&leetcode349：给定两个数组，编写一个函数来计算它们的交集](https://github.com/sisterAn/JavaScript-Algorithms/issues/6)
 - [字节&leetcode1：两数之和](https://github.com/sisterAn/JavaScript-Algorithms/issues/4)
 - [腾讯&leetcode15：三数之和](https://github.com/sisterAn/JavaScript-Algorithms/issues/31)
-- [leetcode380：常数时间插入、删除和获取随机元素](ttps://github.com/sisterAn/JavaScript-Algorithms/issues/48)
+- [leetcode380：常数时间插入、删除和获取随机元素](https://github.com/sisterAn/JavaScript-Algorithms/issues/48)
 
 #### 树
 - [字节&leetcode144：二叉树的前序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/37)
