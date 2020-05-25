@@ -79,7 +79,7 @@
 - [leetcode380：常数时间插入、删除和获取随机元素](https://github.com/sisterAn/JavaScript-Algorithms/issues/48)
 - [剑指Offer：第一个只出现一次的字符](https://github.com/sisterAn/JavaScript-Algorithms/issues/50)
 
-#### 树
+#### 二叉树
 - [字节&leetcode144：二叉树的前序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/37)
 - [字节&leetcode94：二叉树的中序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/38)
 - [字节&leetcode145：二叉树的后序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/40)
