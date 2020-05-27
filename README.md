@@ -90,6 +90,7 @@
 - [字节&腾讯leetcode236：二叉树的最近公共祖先](https://github.com/sisterAn/JavaScript-Algorithms/issues/43)
 - [剑指Offer&leetcode110：平衡二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/44)
 - [字节&leetcode112：路径总和](https://github.com/sisterAn/JavaScript-Algorithms/issues/45)
+- [剑指Offer&leetcode101：对称二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/53)
 
 #### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
