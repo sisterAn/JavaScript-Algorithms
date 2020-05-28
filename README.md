@@ -104,6 +104,7 @@
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
 - [百度：模版渲染](https://github.com/sisterAn/JavaScript-Algorithms/issues/36)
 - [百度：什么是浅拷贝和深拷贝？有什么区别？如何实现 Object 的深拷贝](https://github.com/sisterAn/JavaScript-Algorithms/issues/54)
+- [阿里&字节：手写 async/await 的实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/56)
 
 
 ## 从0到1构建完整的数据结构与算法体系
