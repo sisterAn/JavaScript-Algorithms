@@ -100,11 +100,18 @@
 - [字节&leetcode112：路径总和](https://github.com/sisterAn/JavaScript-Algorithms/issues/45)
 - [剑指Offer&leetcode101：对称二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/53)
 
+### 堆
+- [腾讯&字节等：最小的k个数](https://github.com/sisterAn/JavaScript-Algorithms/issues/59)
+
+### 图
+- [剑指Offer&Bigo：旋转矩阵](https://github.com/sisterAn/JavaScript-Algorithms/issues/57)
+
 #### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
 - [百度：模版渲染](https://github.com/sisterAn/JavaScript-Algorithms/issues/36)
 - [百度：什么是浅拷贝和深拷贝？有什么区别？如何实现 Object 的深拷贝](https://github.com/sisterAn/JavaScript-Algorithms/issues/54)
 - [阿里&字节：手写 async/await 的实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/56)
+- [编程题：用最简洁代码实现 indexOf 方法](https://github.com/sisterAn/JavaScript-Algorithms/issues/58)
 
 
 ## 从0到1构建完整的数据结构与算法体系
