@@ -28,6 +28,7 @@
 - [前端进阶算法6：一看就懂的队列及配套算法题](https://github.com/sisterAn/JavaScript-Algorithms/issues/35)
 - [前端进阶算法7：头条正在面的哈希表问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/49)
 - [前端进阶算法8：小白都可以看懂的树与二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/39)
+- [前端进阶算法9：看完这篇，再也不怕堆排序、Top K、中位数问题面试了](https://github.com/sisterAn/JavaScript-Algorithms/issues/60)
 
 
 想要更多更快的学习本系列，可以关注公众号「前端瓶子君」😊😊😊
