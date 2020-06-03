@@ -22,9 +22,13 @@
 
 - [前端进阶算法1：如何分析、统计算法的执行效率和资源消耗？](https://github.com/sisterAn/JavaScript-Algorithms/issues/1)
 - [前端进阶算法2：从Chrome V8源码看JavaScript数组（附赠腾讯面试题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/2)
+- [瓶子君前端算法集训营第一期开营啦，免费哟](https://mp.weixin.qq.com/s/dQu7Re-DesCr6S8He3AOfQ)
 - [前端进阶算法3：从浏览器缓存淘汰策略和Vue的keep-alive学习LRU算法](https://github.com/sisterAn/JavaScript-Algorithms/issues/9)
 - [前端进阶算法4：链表原来如此简单（+leetcode刷题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/12)
+- [10 问 10 答，带你快速入门前端算法](https://mp.weixin.qq.com/s/i8NbR1LjqhQEPxOILPSacA)
+- [视频面试超高频在线编程题，搞懂这些足以应对大部分公司](https://mp.weixin.qq.com/s/1LnvjVWpKA-RuUGsh23bSw)
 - [前端进阶算法5：全方位解读前端用到的栈结构（调用栈、堆、垃圾回收等）](https://github.com/sisterAn/JavaScript-Algorithms/issues/24)
+- [前端进阶算法：常见算法题及完美题解](https://mp.weixin.qq.com/s/_pDPaf-GBLsMCNp_-MsWfg)
 - [前端进阶算法6：一看就懂的队列及配套算法题](https://github.com/sisterAn/JavaScript-Algorithms/issues/35)
 - [前端进阶算法7：头条正在面的哈希表问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/49)
 - [前端进阶算法8：小白都可以看懂的树与二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/39)
