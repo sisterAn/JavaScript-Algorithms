@@ -120,6 +120,7 @@
 - [百度：什么是浅拷贝和深拷贝？有什么区别？如何实现 Object 的深拷贝](https://github.com/sisterAn/JavaScript-Algorithms/issues/54)
 - [阿里&字节：手写 async/await 的实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/56)
 - [编程题：用最简洁代码实现 indexOf 方法](https://github.com/sisterAn/JavaScript-Algorithms/issues/58)
+- [阿里编程题：实现一个方法，拆解URL参数中queryString](https://github.com/sisterAn/JavaScript-Algorithms/issues/64)
 
 
 ## 从0到1构建完整的数据结构与算法体系
