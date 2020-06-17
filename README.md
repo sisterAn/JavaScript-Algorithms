@@ -112,6 +112,7 @@
 - [剑指Offer&leetcode295：数据流的中位数](https://github.com/sisterAn/JavaScript-Algorithms/issues/63)
 
 ### 图
+- [leetcode997：找到小镇的法官](https://github.com/sisterAn/JavaScript-Algorithms/issues/65)
 - [剑指Offer&Bigo：旋转矩阵](https://github.com/sisterAn/JavaScript-Algorithms/issues/57)
 
 #### 编程题
