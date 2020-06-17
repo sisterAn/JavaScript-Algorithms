@@ -113,6 +113,7 @@
 
 ### 图
 - [leetcode997：找到小镇的法官](https://github.com/sisterAn/JavaScript-Algorithms/issues/65)
+- [leetcode207：课程表问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/66)
 - [剑指Offer&Bigo：旋转矩阵](https://github.com/sisterAn/JavaScript-Algorithms/issues/57)
 
 #### 编程题
