@@ -18,6 +18,8 @@
 
 现在市面上的算法资料很多，但针对前端的算法资料少之又少，所以，这里我整理了一份适用于前端的数据结构与算法系列，希望能帮助你从0到1构建完整的数据结构与算法体系。
 
+![](http://resource.muyiy.cn/image/20200616000604.png)
+
 本系列预估一共有40多篇：
 
 - [前端进阶算法1：如何分析、统计算法的执行效率和资源消耗？](https://github.com/sisterAn/JavaScript-Algorithms/issues/1)
@@ -123,6 +125,7 @@
 - [阿里&字节：手写 async/await 的实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/56)
 - [编程题：用最简洁代码实现 indexOf 方法](https://github.com/sisterAn/JavaScript-Algorithms/issues/58)
 - [阿里编程题：实现一个方法，拆解URL参数中queryString](https://github.com/sisterAn/JavaScript-Algorithms/issues/64)
+- [字节：输出以下代码运行结果，为什么？如果希望每隔 1s 输出一个结果，应该如何改造？注意不可改动 square 方法](https://github.com/sisterAn/JavaScript-Algorithms/issues/69)
 
 
 ## 从0到1构建完整的数据结构与算法体系
