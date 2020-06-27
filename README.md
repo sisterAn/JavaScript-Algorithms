@@ -121,7 +121,7 @@
 ### 排序算法
 - [腾讯&字节：介绍一下快排原理以及时间复杂度，并实现一个快排](https://github.com/sisterAn/JavaScript-Algorithms/issues/70)
 
-#### 编程题
+### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
 - [百度：模版渲染](https://github.com/sisterAn/JavaScript-Algorithms/issues/36)
 - [百度：什么是浅拷贝和深拷贝？有什么区别？如何实现 Object 的深拷贝](https://github.com/sisterAn/JavaScript-Algorithms/issues/54)
@@ -130,6 +130,9 @@
 - [阿里编程题：实现一个方法，拆解URL参数中queryString](https://github.com/sisterAn/JavaScript-Algorithms/issues/64)
 - [字节：输出以下代码运行结果，为什么？如果希望每隔 1s 输出一个结果，应该如何改造？注意不可改动 square 方法](https://github.com/sisterAn/JavaScript-Algorithms/issues/69)
 
+
+### 手写源码
+- [字节：模拟实现 new 操作符](https://github.com/sisterAn/JavaScript-Algorithms/issues/71)
 
 ## 从0到1构建完整的数据结构与算法体系
 
