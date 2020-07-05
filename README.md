@@ -136,6 +136,7 @@
 
 ### 手写源码
 - [字节：模拟实现 new 操作符](https://github.com/sisterAn/JavaScript-Algorithms/issues/71)
+- [解析 call/apply 原理，并手写 call/apply 实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/78)
 
 ## 从0到1构建完整的数据结构与算法体系
 
