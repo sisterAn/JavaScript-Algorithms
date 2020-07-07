@@ -123,6 +123,7 @@
 - [腾讯&字节：介绍一下快排原理以及时间复杂度，并实现一个快排](https://github.com/sisterAn/JavaScript-Algorithms/issues/70)
 - [字节&阿里&网易&leetcode384：打乱数组（洗牌算法）](https://github.com/sisterAn/JavaScript-Algorithms/issues/74)
 - [阿里五面：说下希尔排序的过程？ 希尔排序的时间复杂度和空间复杂度又是多少？](https://github.com/sisterAn/JavaScript-Algorithms/issues/75)
+- [腾讯&leetcode148：排序链表](https://github.com/sisterAn/JavaScript-Algorithms/issues/79)
 
 ### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
