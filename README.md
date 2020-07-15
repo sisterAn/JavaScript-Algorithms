@@ -127,6 +127,9 @@
 - [腾讯&leetcode148：排序链表](https://github.com/sisterAn/JavaScript-Algorithms/issues/79)
 - [字节算法题：扑克牌问题（反向推导题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/80)
 
+### 查找算法
+- [腾讯：简述二分查找算法与时间复杂度，并实现一个二分查找算法](https://github.com/sisterAn/JavaScript-Algorithms/issues/83)
+
 ### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
 - [百度：模版渲染](https://github.com/sisterAn/JavaScript-Algorithms/issues/36)
