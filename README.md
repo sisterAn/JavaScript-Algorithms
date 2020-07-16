@@ -129,6 +129,7 @@
 
 ### 查找算法
 - [腾讯：简述二分查找算法与时间复杂度，并实现一个二分查找算法](https://github.com/sisterAn/JavaScript-Algorithms/issues/83)
+- [腾讯&字节&leetcode34：在排序数组中查找元素的第一个和最后一个位置](https://github.com/sisterAn/JavaScript-Algorithms/issues/84)
 
 ### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
