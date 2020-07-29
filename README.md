@@ -149,6 +149,7 @@
 - [解析 call/apply 原理，并手写 call/apply 实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/78)
 - [解析 bind 原理，并手写 bind 实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/81)
 - [手写 Promise 源码实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/85)
+- [百度：手写parseInt的实现，要求简单一些，把字符串型的数字转化为真正的数字即可，但不能使用JS原生的字符串转数字的API，比如Number()](https://github.com/sisterAn/JavaScript-Algorithms/issues/89)
 
 ## 从0到1构建完整的数据结构与算法体系
 
