@@ -134,6 +134,10 @@
 - [腾讯&字节&leetcode34：在排序数组中查找元素的第一个和最后一个位置](https://github.com/sisterAn/JavaScript-Algorithms/issues/84)
 - [腾讯&leetcode230：二叉搜索树中第K小的元素](https://github.com/sisterAn/JavaScript-Algorithms/issues/86)
 
+### 动态规划
+- [字节&leetcode70：爬楼梯问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/90)
+- [字节&leetcode746：使用最小花费爬楼梯](https://github.com/sisterAn/JavaScript-Algorithms/issues/91)
+
 ### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
 - [百度：模版渲染](https://github.com/sisterAn/JavaScript-Algorithms/issues/36)
