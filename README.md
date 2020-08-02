@@ -20,7 +20,7 @@
 
 ![](http://resource.muyiy.cn/image/20200616000604.png)
 
-本系列预估一共有40多篇：
+## 系列文章
 
 - [前端进阶算法1：如何分析、统计算法的执行效率和资源消耗？](https://github.com/sisterAn/JavaScript-Algorithms/issues/1)
 - [前端进阶算法2：从Chrome V8源码看JavaScript数组（附赠腾讯面试题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/2)
