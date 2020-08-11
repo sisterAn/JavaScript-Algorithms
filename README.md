@@ -60,6 +60,7 @@
 - [leetcode876：求链表的中间结点](https://github.com/sisterAn/JavaScript-Algorithms/issues/15)
 - [leetcode19：删除链表倒数第 n 个结点](https://github.com/sisterAn/JavaScript-Algorithms/issues/16)
 - [图解字节&leetcode160：编写一个程序，找到两个单链表相交的起始节点](https://github.com/sisterAn/JavaScript-Algorithms/issues/17)
+- [腾讯&leetcode611：有效三角形的个数](https://github.com/sisterAn/JavaScript-Algorithms/issues/93)
 
 #### 字符串
 - [字节&leetcode151：翻转字符串里的单词](https://github.com/sisterAn/JavaScript-Algorithms/issues/18)
@@ -128,6 +129,7 @@
 - [阿里五面：说下希尔排序的过程？ 希尔排序的时间复杂度和空间复杂度又是多少？](https://github.com/sisterAn/JavaScript-Algorithms/issues/75)
 - [腾讯&leetcode148：排序链表](https://github.com/sisterAn/JavaScript-Algorithms/issues/79)
 - [字节算法题：扑克牌问题（反向推导题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/80)
+- [腾讯&leetcode611：有效三角形的个数](https://github.com/sisterAn/JavaScript-Algorithms/issues/93)
 
 ### 查找算法
 - [腾讯：简述二分查找算法与时间复杂度，并实现一个二分查找算法](https://github.com/sisterAn/JavaScript-Algorithms/issues/83)
