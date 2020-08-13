@@ -139,6 +139,7 @@
 ### 动态规划
 - [字节&leetcode70：爬楼梯问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/90)
 - [字节&leetcode746：使用最小花费爬楼梯](https://github.com/sisterAn/JavaScript-Algorithms/issues/91)
+- [字节二面&leetcode53：最大子序和](https://github.com/sisterAn/JavaScript-Algorithms/issues/94)
 
 ### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
