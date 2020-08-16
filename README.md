@@ -158,7 +158,8 @@
 - [手写 Promise 源码实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/85)
 - [百度：手写parseInt的实现，要求简单一些，把字符串型的数字转化为真正的数字即可，但不能使用JS原生的字符串转数字的API，比如Number()](https://github.com/sisterAn/JavaScript-Algorithms/issues/89)
 - [百度：什么是浅拷贝和深拷贝？有什么区别？如何实现 Object 的深拷贝](https://github.com/sisterAn/JavaScript-Algorithms/issues/55)
-- [手写 throttle 实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/82)
+- [手写一个节流函数 throttle](https://github.com/sisterAn/JavaScript-Algorithms/issues/82)
+- [手写一个防抖函数 debounce](https://github.com/sisterAn/JavaScript-Algorithms/issues/95)
 
 ## 从0到1构建完整的数据结构与算法体系
 
