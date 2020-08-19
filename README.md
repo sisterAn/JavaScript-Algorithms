@@ -14,7 +14,7 @@
 
 所以说，学算法是每个前端进阶必备！⛽️⛽️⛽️
 
-现在市面上的算法资料很多，但针对前端的算法资料少之又少，所以，这里我整理了一份适用于前端的数据结构与算法系列，希望能帮助你从0到1构建完整的数据结构与算法体系。
+所以，这里我整理了一份适用于前端的数据结构与算法系列，希望能帮助你从0到1构建完整的数据结构与算法体系。
 
 ![](http://resource.muyiy.cn/image/20200616000604.png)
 
@@ -138,6 +138,7 @@
 - [字节&leetcode70：爬楼梯问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/90)
 - [字节&leetcode746：使用最小花费爬楼梯](https://github.com/sisterAn/JavaScript-Algorithms/issues/91)
 - [字节二面&leetcode53：最大子序和](https://github.com/sisterAn/JavaScript-Algorithms/issues/94)
+- [腾讯&leetcode121：买卖股票的最佳时机](https://github.com/sisterAn/JavaScript-Algorithms/issues/96)
 
 ### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
