@@ -162,6 +162,7 @@
 - [百度：什么是浅拷贝和深拷贝？有什么区别？如何实现 Object 的深拷贝](https://github.com/sisterAn/JavaScript-Algorithms/issues/55)
 - [手写一个节流函数 throttle](https://github.com/sisterAn/JavaScript-Algorithms/issues/92)
 - [手写一个防抖函数 debounce](https://github.com/sisterAn/JavaScript-Algorithms/issues/95)
+- [手写 setTimeout 实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/98)
 
 ## 从0到1构建完整的数据结构与算法体系
 
