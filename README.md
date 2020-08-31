@@ -151,6 +151,7 @@
 - [编程题：用最简洁代码实现 indexOf 方法](https://github.com/sisterAn/JavaScript-Algorithms/issues/58)
 - [阿里编程题：实现一个方法，拆解URL参数中queryString](https://github.com/sisterAn/JavaScript-Algorithms/issues/64)
 - [字节：输出以下代码运行结果，为什么？如果希望每隔 1s 输出一个结果，应该如何改造？注意不可改动 square 方法](https://github.com/sisterAn/JavaScript-Algorithms/issues/69)
+- [字节：修改以下 print 函数，使之输出 0 到 99，或者 99 到 0](https://github.com/sisterAn/JavaScript-Algorithms/issues/101)
 
 
 ### 手写源码
