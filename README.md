@@ -168,6 +168,7 @@
 - [高频：手写一个节流函数 throttle](https://github.com/sisterAn/JavaScript-Algorithms/issues/92)
 - [高频：手写一个防抖函数 debounce](https://github.com/sisterAn/JavaScript-Algorithms/issues/95)
 - [腾讯：介绍 setTimeout 实现机制与原理](https://github.com/sisterAn/JavaScript-Algorithms/issues/98)
+- [阿里&字节：手写 async/await 的实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/56)
 - [阿里等：实现一个 vue 的双向绑定](https://github.com/sisterAn/JavaScript-Algorithms/issues/100)
 
 ## 从0到1构建完整的数据结构与算法体系
