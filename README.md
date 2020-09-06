@@ -143,8 +143,12 @@
 ### 贪心算法
 - [字节&leetcode122：买卖股票的最佳时机 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/96)
 
+### 回溯算法
+- [百度&leetcode46：全排列问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/102)
+
 ### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
+- [字节编程题：实现一个add方法](https://github.com/sisterAn/JavaScript-Algorithms/issues/103)
 - [百度：模版渲染](https://github.com/sisterAn/JavaScript-Algorithms/issues/36)
 - [百度：什么是浅拷贝和深拷贝？有什么区别？如何实现 Object 的深拷贝](https://github.com/sisterAn/JavaScript-Algorithms/issues/55)
 - [阿里&字节：手写 async/await 的实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/56)
