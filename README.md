@@ -14,7 +14,7 @@
 
 所以说，学算法是每个前端进阶必备！⛽️⛽️⛽️
 
-所以，这里我整理了一份适用于前端的数据结构与算法系列，希望能帮助你从0到1构建完整的数据结构与算法体系。
+所以，这里我整理了一份适用于前端的数据结构与算法系列，希望能帮助你从0到1构建完整的数据结构与算法体系（此处所有的题目均来自真实前端面试）。
 
 ![](http://resource.muyiy.cn/image/20200616000604.png)
 
@@ -159,6 +159,7 @@
 - [字节：输出以下代码运行结果，为什么？如果希望每隔 1s 输出一个结果，应该如何改造？注意不可改动 square 方法](https://github.com/sisterAn/JavaScript-Algorithms/issues/69)
 - [字节：修改以下 print 函数，使之输出 0 到 99，或者 99 到 0](https://github.com/sisterAn/JavaScript-Algorithms/issues/101)
 - [阿里异步串行编程题：按照以下要求，实现 createFlow 函数 ](https://github.com/sisterAn/JavaScript-Algorithms/issues/106)
+- [百度&阿里编程题：模拟实现一个 localStorage](https://github.com/sisterAn/JavaScript-Algorithms/issues/108)
 
 
 ### 手写源码
