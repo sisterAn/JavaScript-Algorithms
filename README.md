@@ -76,7 +76,7 @@
 - [面试真题：删除字符串中出现次数 >= 2 次的相邻字符](https://github.com/sisterAn/JavaScript-Algorithms/issues/28)
 
 #### 队列
-- [剑指offer09：用两个栈实现队列](https://github.com/sisterAn/JavaScript-Algorithms/issues/34)
+- [腾讯&剑指offer09：用两个栈实现队列](https://github.com/sisterAn/JavaScript-Algorithms/issues/34)
 - [leetcode239：滑动窗口最大值问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/33)
 - [字节&leetcode151：翻转字符串里的单词](https://github.com/sisterAn/JavaScript-Algorithms/issues/18)
 - [字节&Leetcode3：无重复字符的最长子串](https://github.com/sisterAn/JavaScript-Algorithms/issues/21)
