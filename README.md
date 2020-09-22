@@ -160,6 +160,7 @@
 - [字节：修改以下 print 函数，使之输出 0 到 99，或者 99 到 0](https://github.com/sisterAn/JavaScript-Algorithms/issues/101)
 - [阿里异步串行编程题：按照以下要求，实现 createFlow 函数 ](https://github.com/sisterAn/JavaScript-Algorithms/issues/106)
 - [百度&阿里编程题：模拟实现一个 localStorage](https://github.com/sisterAn/JavaScript-Algorithms/issues/108)
+- [美团编程题：编写一个算法解析以下符号，转换为json树的结构](https://github.com/sisterAn/JavaScript-Algorithms/issues/111)
 
 
 ### 手写源码
