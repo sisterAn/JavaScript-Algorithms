@@ -148,6 +148,7 @@
 
 ### 回溯算法
 - [百度&leetcode46：全排列问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/102)
+- [腾讯&leetcode22：括号生成](https://github.com/sisterAn/JavaScript-Algorithms/issues/102)
 
 ### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
