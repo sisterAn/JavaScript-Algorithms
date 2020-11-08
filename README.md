@@ -145,7 +145,7 @@
 - [腾讯&leetcode647：回文子串](https://github.com/sisterAn/JavaScript-Algorithms/issues/107)
 
 ### 贪心算法
-- [字节&leetcode122：买卖股票的最佳时机 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/96)
+- [字节&leetcode122：买卖股票的最佳时机 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/97)
 
 ### 回溯算法
 - [百度&leetcode46：全排列问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/102)
