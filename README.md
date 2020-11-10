@@ -102,8 +102,6 @@
 - [leetcode105：从前序与中序遍历序列构造二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/41)
 
 ##### 二叉树进阶
-- [leetcode105：从前序与中序遍历序列构造二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/41)
-- [leetcode105：从前序与中序遍历序列构造二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/41)
 - [腾讯&leetcode104：二叉树的最大深度](https://github.com/sisterAn/JavaScript-Algorithms/issues/42)
 - [字节&腾讯leetcode236：二叉树的最近公共祖先](https://github.com/sisterAn/JavaScript-Algorithms/issues/43)
 - [剑指Offer&leetcode110：平衡二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/44)
