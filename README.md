@@ -60,6 +60,7 @@
 - [图解字节&leetcode160：编写一个程序，找到两个单链表相交的起始节点](https://github.com/sisterAn/JavaScript-Algorithms/issues/17)
 - [腾讯&leetcode611：有效三角形的个数](https://github.com/sisterAn/JavaScript-Algorithms/issues/93)
 - [快手算法：链表求和](https://github.com/sisterAn/JavaScript-Algorithms/issues/114)
+- [leetcode42：接雨水问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/122)
 
 #### 字符串
 - [字节&leetcode151：翻转字符串里的单词](https://github.com/sisterAn/JavaScript-Algorithms/issues/18)
@@ -141,9 +142,12 @@
 - [字节二面&leetcode53：最大子序和](https://github.com/sisterAn/JavaScript-Algorithms/issues/94)
 - [腾讯&leetcode121：买卖股票的最佳时机](https://github.com/sisterAn/JavaScript-Algorithms/issues/96)
 - [腾讯&leetcode647：回文子串](https://github.com/sisterAn/JavaScript-Algorithms/issues/107)
+- [腾讯&leetcode5：最长回文子串](https://github.com/sisterAn/JavaScript-Algorithms/issues/121)
 
 ### 贪心算法
 - [字节&leetcode122：买卖股票的最佳时机 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/97)
+- [字节&leetcode455：分发饼干](https://github.com/sisterAn/JavaScript-Algorithms/issues/115)
+- [腾讯&leetcode659：分割数组为连续子序列](https://github.com/sisterAn/JavaScript-Algorithms/issues/117)
 
 ### 回溯算法
 - [百度&leetcode46：全排列问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/102)
@@ -162,6 +166,15 @@
 - [阿里异步串行编程题：按照以下要求，实现 createFlow 函数 ](https://github.com/sisterAn/JavaScript-Algorithms/issues/106)
 - [百度&阿里编程题：模拟实现一个 localStorage](https://github.com/sisterAn/JavaScript-Algorithms/issues/108)
 - [美团编程题：编写一个算法解析以下符号，转换为json树的结构](https://github.com/sisterAn/JavaScript-Algorithms/issues/111)
+- [阿里：如何判断两个变量相等](https://github.com/sisterAn/JavaScript-Algorithms/issues/116)
+- [蘑菇街：找出字符串中连续出现最多的字符和个数](https://github.com/sisterAn/JavaScript-Algorithms/issues/118)
+- [字节&剑指 Offer 29：顺时针打印矩阵](https://github.com/sisterAn/JavaScript-Algorithms/issues/119)
+- [编程题：以下输出顺序多少 (setTimeout 与 promise 顺序) ](https://github.com/sisterAn/JavaScript-Algorithms/issues/120)
+- [腾讯算法题 ](https://github.com/sisterAn/JavaScript-Algorithms/issues/124)
+- [腾讯：64匹马，8个赛道，找出跑最快的4匹马](https://github.com/sisterAn/JavaScript-Algorithms/issues/125)
+- [华为：一个字符串里出现最多的字符是什么，以及出现次数](https://github.com/sisterAn/JavaScript-Algorithms/issues/126)
+- [字节：N数之和](https://github.com/sisterAn/JavaScript-Algorithms/issues/128)
+- [编程之美&百度&腾讯：黑球、白球各100，问最后剩下一个是黑球的概率](https://github.com/sisterAn/JavaScript-Algorithms/issues/129)
 
 
 ### 手写源码
@@ -178,6 +191,10 @@
 - [阿里等：实现一个 vue 的双向绑定](https://github.com/sisterAn/JavaScript-Algorithms/issues/100)
 - [手写 axios 实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/104)
 - [手写一个发布-订阅模式](https://github.com/sisterAn/JavaScript-Algorithms/issues/110)
+
+### 基础题
+- [字节：使用 CSS 画一个三角形](https://github.com/sisterAn/JavaScript-Algorithms/issues/123)
+- [网易：请描述一下 cookies、 sessionStorage和localstorage区别](https://github.com/sisterAn/JavaScript-Algorithms/issues/127)
 
 ## 从0到1构建完整的数据结构与算法体系
 
