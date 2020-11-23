@@ -196,6 +196,7 @@
 - [字节：使用 CSS 画一个三角形](https://github.com/sisterAn/JavaScript-Algorithms/issues/123)
 - [网易：请描述一下 cookies、 sessionStorage和localstorage区别](https://github.com/sisterAn/JavaScript-Algorithms/issues/127)
 - [腾讯：HTTP 、 HTTPS 、 HTTP2 的区别？](https://github.com/sisterAn/JavaScript-Algorithms/issues/131)
+- [字节&平安：CSS 实现文本的单行和多行溢出省略效](https://github.com/sisterAn/JavaScript-Algorithms/issues/130)
 
 ## 从0到1构建完整的数据结构与算法体系
 
