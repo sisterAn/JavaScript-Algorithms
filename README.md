@@ -69,6 +69,7 @@
 - [字节&Leetcode3：无重复字符的最长子串](https://github.com/sisterAn/JavaScript-Algorithms/issues/21)
 - [Facebook&字节&leetcode415: 字符串相加](https://github.com/sisterAn/JavaScript-Algorithms/issues/32)
 - [腾讯&leetcode43：字符串相乘](https://github.com/sisterAn/JavaScript-Algorithms/issues/105)
+- [腾讯&剑指Offer：字符串转换整数 (atoi)](https://github.com/sisterAn/JavaScript-Algorithms/issues/132)
 
 #### 栈
 - [字节&leetcode155：最小栈（包含getMin函数的栈）](https://github.com/sisterAn/JavaScript-Algorithms/issues/23)
@@ -121,6 +122,7 @@
 - [leetcode997：找到小镇的法官](https://github.com/sisterAn/JavaScript-Algorithms/issues/65)
 - [leetcode207：课程表问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/66)
 - [剑指Offer&Bigo：旋转矩阵](https://github.com/sisterAn/JavaScript-Algorithms/issues/57)
+- [腾讯&leetcode：螺旋矩阵 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/134)
 
 ### 排序算法
 - [腾讯&字节：介绍一下快排原理以及时间复杂度，并实现一个快排](https://github.com/sisterAn/JavaScript-Algorithms/issues/70)
@@ -143,6 +145,7 @@
 - [腾讯&leetcode121：买卖股票的最佳时机](https://github.com/sisterAn/JavaScript-Algorithms/issues/96)
 - [腾讯&leetcode647：回文子串](https://github.com/sisterAn/JavaScript-Algorithms/issues/107)
 - [腾讯&leetcode5：最长回文子串](https://github.com/sisterAn/JavaScript-Algorithms/issues/121)
+- [阿里&网易&leetcode64：最小路径和](https://github.com/sisterAn/JavaScript-Algorithms/issues/139)
 
 ### 贪心算法
 - [字节&leetcode122：买卖股票的最佳时机 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/97)
@@ -155,6 +158,10 @@
 
 ### 编程题
 - [携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/30)
+- [腾讯：不产生新数组，删除数组里的重复元素](https://github.com/sisterAn/JavaScript-Algorithms/issues/135)
+- [蘑菇街：按照以下要求，写一个数组（包含对象等类型元素）去重函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/136)
+- [网易&美团：实现一个 findIndex 函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/137)
+- [字节：模拟实现 Array.prototype.splice](https://github.com/sisterAn/JavaScript-Algorithms/issues/138)
 - [字节编程题：实现一个add方法](https://github.com/sisterAn/JavaScript-Algorithms/issues/103)
 - [百度：模版渲染](https://github.com/sisterAn/JavaScript-Algorithms/issues/36)
 - [百度：什么是浅拷贝和深拷贝？有什么区别？如何实现 Object 的深拷贝](https://github.com/sisterAn/JavaScript-Algorithms/issues/55)
@@ -191,12 +198,15 @@
 - [阿里等：实现一个 vue 的双向绑定](https://github.com/sisterAn/JavaScript-Algorithms/issues/100)
 - [手写 axios 实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/104)
 - [手写一个发布-订阅模式](https://github.com/sisterAn/JavaScript-Algorithms/issues/110)
+- [网易&美团：实现一个 findIndex 函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/137)
+- [字节：模拟实现 Array.prototype.splice](https://github.com/sisterAn/JavaScript-Algorithms/issues/138)
 
 ### 基础题
 - [字节：使用 CSS 画一个三角形](https://github.com/sisterAn/JavaScript-Algorithms/issues/123)
 - [网易：请描述一下 cookies、 sessionStorage和localstorage区别](https://github.com/sisterAn/JavaScript-Algorithms/issues/127)
 - [腾讯：HTTP 、 HTTPS 、 HTTP2 的区别？](https://github.com/sisterAn/JavaScript-Algorithms/issues/131)
 - [字节&平安：CSS 实现文本的单行和多行溢出省略效](https://github.com/sisterAn/JavaScript-Algorithms/issues/130)
+- [腾讯：简述一下用户访问网站的过程（缓存，DNS查询，建立链接，请求，响应，收到页面，解析DOM树，显示内容，首屏加载完成，可交互）](https://github.com/sisterAn/JavaScript-Algorithms/issues/133)
 
 ## 从0到1构建完整的数据结构与算法体系
 
