@@ -111,6 +111,7 @@
 - [剑指Offer&leetcode101：对称二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/53)
 - [字节一面：给定一个二叉树, 找到该树中两个指定节点间的最短距离](https://github.com/sisterAn/JavaScript-Algorithms/issues/82)
 - [腾讯&leetcode230：二叉搜索树中第K小的元素](https://github.com/sisterAn/JavaScript-Algorithms/issues/86)
+- [二叉树的左右子树交换](https://github.com/sisterAn/JavaScript-Algorithms/issues/141)
 
 ### 堆
 - [腾讯&字节等：最小的k个数](https://github.com/sisterAn/JavaScript-Algorithms/issues/59)
@@ -182,6 +183,10 @@
 - [华为：一个字符串里出现最多的字符是什么，以及出现次数](https://github.com/sisterAn/JavaScript-Algorithms/issues/126)
 - [字节：N数之和](https://github.com/sisterAn/JavaScript-Algorithms/issues/128)
 - [编程之美&百度&腾讯：黑球、白球各100，问最后剩下一个是黑球的概率](https://github.com/sisterAn/JavaScript-Algorithms/issues/129)
+- [给你一个数组[2,1,2,4,3]，你返回数组 [4,2,4,−1,−1]](https://github.com/sisterAn/JavaScript-Algorithms/issues/142)
+- [腾讯：字符串的数字相加](https://github.com/sisterAn/JavaScript-Algorithms/issues/143)
+- [找出一个字符串中的不匹配括号的位置，以json形式输出，位置index从0开始](https://github.com/sisterAn/JavaScript-Algorithms/issues/144)
+- [基础题，直接写出答案](https://github.com/sisterAn/JavaScript-Algorithms/issues/146)
 
 
 ### 手写源码
@@ -195,11 +200,13 @@
 - [高频：手写一个防抖函数 debounce](https://github.com/sisterAn/JavaScript-Algorithms/issues/95)
 - [腾讯：介绍 setTimeout 实现机制与原理](https://github.com/sisterAn/JavaScript-Algorithms/issues/98)
 - [阿里&字节：手写 async/await 的实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/56)
+- [async await 和 promise 的关系](https://github.com/sisterAn/JavaScript-Algorithms/issues/149)
 - [阿里等：实现一个 vue 的双向绑定](https://github.com/sisterAn/JavaScript-Algorithms/issues/100)
 - [手写 axios 实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/104)
 - [手写一个发布-订阅模式](https://github.com/sisterAn/JavaScript-Algorithms/issues/110)
 - [网易&美团：实现一个 findIndex 函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/137)
 - [字节：模拟实现 Array.prototype.splice](https://github.com/sisterAn/JavaScript-Algorithms/issues/138)
+- [介绍 Redux 原理，并手写一个 Redux](https://github.com/sisterAn/JavaScript-Algorithms/issues/140)
 
 ### 基础题
 - [字节：使用 CSS 画一个三角形](https://github.com/sisterAn/JavaScript-Algorithms/issues/123)
@@ -207,6 +214,11 @@
 - [腾讯：HTTP 、 HTTPS 、 HTTP2 的区别？](https://github.com/sisterAn/JavaScript-Algorithms/issues/131)
 - [字节&平安：CSS 实现文本的单行和多行溢出省略效](https://github.com/sisterAn/JavaScript-Algorithms/issues/130)
 - [腾讯：简述一下用户访问网站的过程（缓存，DNS查询，建立链接，请求，响应，收到页面，解析DOM树，显示内容，首屏加载完成，可交互）](https://github.com/sisterAn/JavaScript-Algorithms/issues/133)
+- [介绍一下浏览器缓存策略](https://github.com/sisterAn/JavaScript-Algorithms/issues/150)
+- [es6 及 es6+ 的能力集，你最常用的，这其中最有用的，都解决了什么问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/147)
+- [react 与 vue 的技术栈对比，说下区别](https://github.com/sisterAn/JavaScript-Algorithms/issues/148)
+- [react16新增了哪些生命周期、有什么作用，为什么去掉某些15的生命周期](https://github.com/sisterAn/JavaScript-Algorithms/issues/153)
+- [前端性能优化](https://github.com/sisterAn/JavaScript-Algorithms/issues/152)
 
 ## 从0到1构建完整的数据结构与算法体系
 
