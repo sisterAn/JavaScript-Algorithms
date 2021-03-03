@@ -14,7 +14,7 @@
 
 所以说，学算法是每个前端进阶必备！⛽️⛽️⛽️
 
-所以，这里我整理了一份适用于前端的数据结构与算法系列，希望能帮助你从0到1构建完整的数据结构与算法体系（此处所有的题目均来自真实前端面试）。
+所以，这里我整理了一份适用于前端的数据结构与算法系列，希望能帮助你从0到1构建完整的数据结构与算法体系（**此处所有的题目均来自真实前端面试**）。
 
 ![](http://resource.muyiy.cn/image/20200616000604.png)
 
@@ -219,6 +219,7 @@
 - [react 与 vue 的技术栈对比，说下区别](https://github.com/sisterAn/JavaScript-Algorithms/issues/148)
 - [react16新增了哪些生命周期、有什么作用，为什么去掉某些15的生命周期](https://github.com/sisterAn/JavaScript-Algorithms/issues/153)
 - [前端性能优化](https://github.com/sisterAn/JavaScript-Algorithms/issues/152)
+- [http 301 302 307之间的区别](https://github.com/sisterAn/JavaScript-Algorithms/issues/154)
 
 ## 从0到1构建完整的数据结构与算法体系
 
