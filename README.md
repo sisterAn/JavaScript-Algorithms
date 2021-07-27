@@ -48,6 +48,7 @@
 - [图解leetcode88：合并两个有序数组](https://github.com/sisterAn/JavaScript-Algorithms/issues/3)
 - [字节&leetcode1：两数之和](https://github.com/sisterAn/JavaScript-Algorithms/issues/4)
 - [腾讯&leetcode15：三数之和](https://github.com/sisterAn/JavaScript-Algorithms/issues/31)
+- [字节：N数之和](https://github.com/sisterAn/JavaScript-Algorithms/issues/128)
 - [腾讯：数组扁平化、去重、排序 ](https://github.com/sisterAn/JavaScript-Algorithms/issues/5)
 - [leetcode349：给定两个数组，编写一个函数来计算它们的交集](https://github.com/sisterAn/JavaScript-Algorithms/issues/6)
 - [华为&leetcode146：设计和实现一个LRU（最近最少使用）缓存机制](https://github.com/sisterAn/JavaScript-Algorithms/issues/7)
