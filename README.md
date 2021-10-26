@@ -37,6 +37,10 @@
 - [前端进阶算法9：看完这篇，再也不怕堆排序、Top K、中位数问题面试了](https://github.com/sisterAn/JavaScript-Algorithms/issues/60)
 - [前端进阶算法10：别再说你不懂topk问题了](https://github.com/sisterAn/JavaScript-Algorithms/issues/73)
 - [前端进阶算法11：二叉查找树（BST树）](https://github.com/sisterAn/JavaScript-Algorithms/issues/87)
+- [前端进阶算法12：数据结构与算法中的字符串](https://mp.weixin.qq.com/s/PzoR-Yl1kqAfdPExOCLikQ)
+- [前端进阶算法13：一次搞定九大排序策略](https://mp.weixin.qq.com/s/fMmo2ybLWuPpZvmB6uZo_w)
+- [前端进阶算法14：解读最常见的三大查找结构](https://mp.weixin.qq.com/s/8Ce63WfUAt5e2jmnN-RGJQ)
+- [前端进阶算法15：95% 的算法都是基于这 6 种算法思想](https://mp.weixin.qq.com/s/gC-w-4_FfGxtfQ79mtpbFg)
 
 
 想要更多更快的学习本系列，可以关注公众号「前端瓶子君」😊😊😊
