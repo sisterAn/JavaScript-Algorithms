@@ -1,6 +1,6 @@
 # JavaScript-Algorithms
 
-我是瓶子君，公众号「前端瓶子君」作者，前端进阶博客：https://github.com/sisterAn/blog
+我是瓶子君，前端进阶博客：https://github.com/sisterAn/blog
 
 [线上版本阅读更流畅，点击阅读](https://www.pzijun.cn/)
 
@@ -228,14 +228,3 @@
 - [前端性能优化](https://github.com/sisterAn/JavaScript-Algorithms/issues/152)
 - [http 301 302 307之间的区别](https://github.com/sisterAn/JavaScript-Algorithms/issues/154)
 
-## 从0到1构建完整的数据结构与算法体系
-
-前端算法集训营第一期免费开营啦🎉🎉🎉，免费哟！
-
-在这里，瓶子君不仅介绍算法，还将算法与前端各个领域进行结合，包括浏览器、HTTP、V8、React、Vue源码等。
-
-在这里，你可以每天学习一道大厂算法题（阿里、腾讯、百度、字节等等）或 leetcode，瓶子君都会在第二天解答哟！
-
-
-扫码关注公众号【前端瓶子君】，回复【算法】，拉你进前端算法集训营
-![](http://resource.muyiy.cn/image/20200424231501.png)
