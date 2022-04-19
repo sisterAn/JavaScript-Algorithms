@@ -130,6 +130,7 @@
 - [leetcode207：课程表问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/66)
 - [剑指Offer&Bigo：旋转矩阵](https://github.com/sisterAn/JavaScript-Algorithms/issues/57)
 - [腾讯&leetcode：螺旋矩阵 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/134)
+- [字节&剑指 Offer 29：顺时针打印矩阵](https://github.com/sisterAn/JavaScript-Algorithms/issues/119)
 
 ### 排序算法
 - [腾讯&字节：介绍一下快排原理以及时间复杂度，并实现一个快排](https://github.com/sisterAn/JavaScript-Algorithms/issues/70)
