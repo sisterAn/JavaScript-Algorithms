@@ -40,6 +40,7 @@
 - [前端进阶算法13：一次搞定九大排序策略](https://mp.weixin.qq.com/s/fMmo2ybLWuPpZvmB6uZo_w)
 - [前端进阶算法14：解读最常见的三大查找结构](https://mp.weixin.qq.com/s/8Ce63WfUAt5e2jmnN-RGJQ)
 - [前端进阶算法15：95% 的算法都是基于这 6 种算法思想](https://mp.weixin.qq.com/s/gC-w-4_FfGxtfQ79mtpbFg)
+- [前端进阶算法16：贪心算法套路问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/171)
 
 
 想要更多更快的学习本系列，可以关注公众号「前端瓶子君」😊😊😊
