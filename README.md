@@ -213,7 +213,6 @@
 - [手写一个发布-订阅模式](https://github.com/sisterAn/JavaScript-Algorithms/issues/110)
 - [网易&美团：实现一个 findIndex 函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/137)
 - [字节：模拟实现 Array.prototype.splice](https://github.com/sisterAn/JavaScript-Algorithms/issues/138)
-- [介绍 Redux 原理，并手写一个 Redux](https://github.com/sisterAn/JavaScript-Algorithms/issues/140)
 - [手写 useState 实现](https://github.com/sisterAn/blog/issues/130)
 
 ### 基础题
