@@ -209,7 +209,6 @@
 - [腾讯：介绍 setTimeout 实现机制与原理](https://github.com/sisterAn/JavaScript-Algorithms/issues/98)
 - [阿里&字节：手写 async/await 的实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/56)
 - [async await 和 promise 的关系](https://github.com/sisterAn/JavaScript-Algorithms/issues/149)
-- [阿里等：实现一个 vue 的双向绑定](https://github.com/sisterAn/JavaScript-Algorithms/issues/100)
 - [手写 axios 实现](https://github.com/sisterAn/JavaScript-Algorithms/issues/104)
 - [手写一个发布-订阅模式](https://github.com/sisterAn/JavaScript-Algorithms/issues/110)
 - [网易&美团：实现一个 findIndex 函数](https://github.com/sisterAn/JavaScript-Algorithms/issues/137)
